@@ -1,0 +1,13 @@
+env/
+*~
+*#
+.#*
+__pycache__
+*.html.py
+.idea
+venv
+dumps
+celerybeat-schedule
+.coverage
+myfile
+geckodriver.log
